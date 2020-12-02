@@ -1,4 +1,5 @@
 # seconde-repository
-try alone 
 
-la je vais essayé d'ajouté cette ligne a celle du main pour voir se que ca va donné 
+
+
+mtn on a supprimé une ligne 'try alone ' et on a ajouté cette ligne
