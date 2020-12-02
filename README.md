@@ -1,2 +1,4 @@
 # seconde-repository
-try alone 
+
+
+mtn on a supprimé une ligne 'try alone ' et on a ajouté cette ligne
